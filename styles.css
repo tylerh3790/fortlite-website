@@ -1,1 +1,29 @@
 
+body {
+    background-color: #111111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #8cff45;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+p, li {
+    color: #cccccc;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color: #8cff45;
+}
